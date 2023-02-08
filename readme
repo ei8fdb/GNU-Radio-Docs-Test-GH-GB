@@ -1,14 +1,5 @@
----
-description: >-
-  Our Usage Manual provides detailed information about various sub-components of
-  GNU Radio.
----
-
 # Start here
 
-## &#x20;<a href="#firstheading" id="firstheading"></a>
-
-[Jump to navigation](https://wiki.gnuradio.org/index.php?title=Usage\_Manual#mw-head) [Jump to search](https://wiki.gnuradio.org/index.php?title=Usage\_Manual#searchInput)
 
 * [Handling Flowgraphs](user-manual/handling-flowgraphs.md)
 * [Types of Blocks](user-manual/type-of-blocks.md)
